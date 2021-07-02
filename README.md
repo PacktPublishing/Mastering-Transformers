@@ -1,3 +1,3 @@
 # Mastering Transformers
-Mastering Transformers, published by Packt
+Mastering Transformers, published by Packt 
 
