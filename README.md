@@ -1,8 +1,8 @@
 # Mastering Transformers
 
-<a href="https://www.packtpub.com/product/mastering-transformers/9781801077651"><img src="https://static.packt-cdn.com/products/9781801077651/cover/smaller" alt="Book Name" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/product/mastering-transformers/9781801077651"><img src="mt.jpg" alt="Book Name" height="256px" align="right"></a>
 
-This is the code repository for [Mastering Transformers](https://www.packtpub.com/product/mastering-transformers/9781801077651), published by Packt.
+This is the code repository for [Mastering Transformers](https://www.amazon.com/Mastering-Transformers-state-art-processing/dp/1801077657), published by Packt.
 
 **Build state-of-the-art models from scratch with advanced natural language processing techniques**
 
